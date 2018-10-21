@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<div class="parallax-container parallax-full-height" data-parallax="scroll" data-position="-150px bottom" data-bleed="0" data-image-src="img/home.jpg" data-natural-width="2048" data-natural-height="1024" style="background-image: url(img/home.jpg); background-position: center bottom;">
+    {% include menu.html %}
+
+    <div class="container text-right">
+        <h1><span class="bg-primary">Les Cordes Associées</span></h1>
+        <p><span class="bg-default">Compagnie de spectacle vivant</span></p>
+    </div>
+</div>
