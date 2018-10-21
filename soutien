@@ -10,3 +10,4 @@ layout: default
         <p><span class="bg-default">Compagnie de spectacle vivant</span></p>
     </div>
 </div>
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.donnerenligne.fr/association-les-cordes-associees/faire-un-don" style="width:100%;height:750px;border:none;" onload="window.scroll(0, this.offsetTop)"></iframe>
